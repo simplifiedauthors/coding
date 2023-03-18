@@ -1,2 +1,2 @@
-# Chapter 1 - Basic Sytax
+# Chapter 2 - Basic Sytax
 Rules of the Kotlin language
