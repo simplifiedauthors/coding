@@ -1,2 +1,2 @@
-# Chapter 3 - Hello Kotlin
+# Chapter 1 - Hello Kotlin
 An introduction to Kotlin
