@@ -1,2 +1,2 @@
-# Simplified Coding series
-Learning Resources for Simplified Coding book series
+# Simplified Coding in Typescript
+Exercises from the Simplified Coding in Typescript book
