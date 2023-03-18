@@ -1,2 +1,2 @@
 # Simplified Coding series
-Extra Learning Resources to Simplified Coding book series
+Learning Resources for Simplified Coding book series
